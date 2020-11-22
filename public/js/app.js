@@ -1,4 +1,4 @@
-console.log("js files executed");
+// console.log("js files executed");
 
 const weatherform = document.querySelector("form");
 const search = document.querySelector("input");
